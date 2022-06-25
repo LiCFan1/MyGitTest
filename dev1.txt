@@ -2,3 +2,4 @@ dev1/v1.0.x
 
 # partner1建立新分支
 # partner1开发新任务，通过dev1/v1.0.x分支建立新分支devPar1/v1.0.2
+# partner1开发收藏功能完毕，提交该功能到分支devPar1/v1.0.2
