@@ -1,4 +1,10 @@
 devMy/v1.0.1
 
 # partner1建立新分支
+<<<<<<< HEAD
 # My在dev1/v1.0.x上建立新分支 devMy/v1.0.1
+=======
+# partner1开发新任务，通过dev1/v1.0.x分支建立新分支devPar1/v1.0.2
+# partner1开发收藏功能完毕，提交该功能到分支devPar1/v1.0.2
+# partner1将分支合并到dev1/v1.0.x
+>>>>>>> dev1/v1.0.x
