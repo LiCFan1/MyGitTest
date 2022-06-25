@@ -6,4 +6,4 @@ devMy/v1.0.1
 # partner1开发收藏功能完毕，提交该功能到分支devPar1/v1.0.2
 # partner1将分支合并到dev1/v1.0.x
 # My在devMy/v1.0.1上的点赞功能开发完毕，准备合并到dev1/v1.0.x上
-
+# partner1将分支dev1/v1.0.x合并到master上
